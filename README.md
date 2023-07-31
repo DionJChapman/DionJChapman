@@ -89,7 +89,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 
 ## Statistics
 <table>
-<tr><td width="100%">
+<tr><td width="100%" colspan="3">
 <a href="http://www.github.com/DionJChapman">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DionJChapman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
       </a></td></tr>
