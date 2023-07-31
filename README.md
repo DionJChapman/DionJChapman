@@ -8,10 +8,7 @@ I am a software developer with over 30 years experience. I am current specialisi
   <img alt="github" src="https://img.shields.io/github/stars/DionJChapman?affiliations=OWNER&color=ffe411&label=Github%20Stars&logo=github&logoColor=%23fffFF&style=flat" />&nbsp;&nbsp;
   <img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=Market%20Place%20Rating"/>&nbsp;&nbsp;
-  
   </p>
-https://img.shields.io/github/downloads/:user/:repo/total
-
 
 <table border="0">
 <tr><td colspan="14"><h2>Technologies</h2></td></tr>
