@@ -58,8 +58,8 @@ I am a software developer with over 30 years experience. I am current specialisi
 </tr>
 <tr><th>Socials</th>
 <td><a href="https://www.linkedin.com/in/dion-jaymes-chapman-47b9278/" target="_blank"><img src="./media/linkedin.png" alt="LinkedId" width="40" height="40"/></a></td>
-<td><a href="" target="_blank"><img src="./media/facebook.png" alt="Facebook" style="opacity: 0.3;" width="40" height="40"/></a></td>
-<td><a href="" target="_blank"><img src="./media/instagram.png" alt="Instagram" style="opacity: 0.3;" width="40" height="40"/></a></td>
+<td><a href="https://www.facebook.com/NativeBit.dev/" target="_blank"><img src="./media/facebook.png" alt="Facebook" width="40" height="40"/></a></td>
+<td><a href="https://www.instagram.com/nativebit.dev/" target="_blank"><img src="./media/instagram.png" alt="Instagram" width="40" height="40"/></a></td>
 <td><a href="" target="_blank"><img src="./media/youtube.png" alt="YouTube" style="opacity: 0.3;" width="40" height="40"/></a></td>
 <td><a href="https://wa.me/61491189033?text=I%20am%20interested%20in%20working%20with%20NativeBit" target="_blank"><img src="./media/whatsapp.png" alt="WhatsApp" width="40" height="40"/></a></td>
 <td></td>
