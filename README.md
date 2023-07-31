@@ -4,7 +4,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 
 ## Technologies
 
-<table>
+<table boder="0">
 <tr>
 <th>Languages</th>
 <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
@@ -85,7 +85,6 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><a href="https://paypal.me/puggsincyberspace?country.x=AU&locale.x=en_AU" target="_blank"><img src="./media/paypal.png" alt="PayPal Me" width="40" height="40"/></a></td>
 <td><a href="https://bmc.link/nativebit" target="_blank"><img src="./media/bmc-icon.png" alt="Buy Me A Coffee" width="40" height="40"/></a></td>
 <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></tr>
 
 ## Statistics
 <table>
@@ -95,18 +94,18 @@ I am a software developer with over 30 years experience. I am current specialisi
       </a></td></tr>
 <tr>
 <td>
-<a href="http://www.github.com/DionJChapman">
-        <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg?username=DionJChapman" alt="GitHub Commits Graph" />
-      </a>
-</td>
-<td>
     <a href="http://www.github.com/DionJChapman">
     <img src="https://github-readme-stats.vercel.app/api?username=DionJChapman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DionJChapman's GitHub stats" />
     </a>
 </td>
 <td>
 <a href="http://www.github.com/DionJChapman">
-        <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg?username=DionJChapman" alt="GitHub Statistics Graph" />
+        <img src="https://raw.githubusercontent.com/DionJChapman/github-stats-transparent/output/generated/overview.svg" alt="GitHub Statistics Graph" />
+      </a>
+</td>
+<td>
+<a href="http://www.github.com/DionJChapman">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionJChapman&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Languages Graph" />
       </a>
 </td>
 </tr>
