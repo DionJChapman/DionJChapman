@@ -2,9 +2,9 @@
 
 I am a software developer with over 30 years experience. I am current specialising in App development using Flutter and VSCode Extensions. I am able to do full development cycle including requirements gathering, data risk analyst, design, full stack development, documentation and releases.
 
-## Technologies
 
-<table boder="0">
+<table border="0">
+<tr><td colspan="14"><h2>Technologies</h2></td></tr>
 <tr>
 <th>Languages</th>
 <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
@@ -86,8 +86,9 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><a href="https://bmc.link/nativebit" target="_blank"><img src="./media/bmc-icon.png" alt="Buy Me A Coffee" width="40" height="40"/></a></td>
 <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 
-## Statistics
-<table>
+
+<table border="0">
+<tr><td colspan="3"><h2>Statistics</h2></td></tr>
 <tr><td width="100%" colspan="3">
 <a href="http://www.github.com/DionJChapman">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DionJChapman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
@@ -100,7 +101,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 </td>
 <td>
 <a href="http://www.github.com/DionJChapman">
-        <img src="https://raw.githubusercontent.com/DionJChapman/github-stats-transparent/output/generated/overview.svg" alt="GitHub Statistics Graph" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DionJChapman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Statistics Graph" />
       </a>
 </td>
 <td>
