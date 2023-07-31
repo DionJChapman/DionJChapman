@@ -82,7 +82,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><a href="https://marketplace.visualstudio.com/items?itemName=NativeBit.i18n-l10n-editor" target="_blank"><img src="./media/logo-large.png" alt="Localization/Internationalization Editor" width="40" height="40"/></a></td>
 <td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>
 <br/><img src="https://img.shields.io/github/package-json/v/DionJChapman/Localization-Internationalization-Editor?color=cc5803&label=i18n-l10n-Editor%20Version"/>
-<br/><img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=Marketlace%20Rating"/>
+<br/><img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Rating"/>
 <br/><img src="https://img.shields.io/visual-studio-marketplace/d/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Installs"/></td>
 </tr>
 </table>
