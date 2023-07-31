@@ -91,22 +91,22 @@ I am a software developer with over 30 years experience. I am current specialisi
 <tr><td colspan="3"><h2>Statistics</h2></td></tr>
 <tr><td width="100%" colspan="3">
 <a href="http://www.github.com/DionJChapman">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DionJChapman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DionJChapman&bg_color=ffffff&color=000000&line=0891b2&point=aaaaaa&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
       </a></td></tr>
 <tr>
 <td>
     <a href="http://www.github.com/DionJChapman">
-    <img src="https://github-readme-stats.vercel.app/api?username=DionJChapman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DionJChapman's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DionJChapman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="DionJChapman's GitHub stats" />
     </a>
 </td>
 <td>
 <a href="http://www.github.com/DionJChapman">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DionJChapman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Statistics Graph" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DionJChapman&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="GitHub Statistics Graph" />
       </a>
 </td>
 <td>
 <a href="http://www.github.com/DionJChapman">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionJChapman&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Languages Graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionJChapman&layout=compact&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="GitHub Languages Graph" />
       </a>
 </td>
 </tr>
