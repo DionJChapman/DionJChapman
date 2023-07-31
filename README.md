@@ -75,7 +75,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td></td>
 <td></td>
 </tr>
-<tr><th>Sponsor Me</th>
+<tr><th>Sponsor&nbsp;Me</th>
 <td><a href="https://paypal.me/puggsincyberspace?country.x=AU&locale.x=en_AU" target="_blank"><img src="./media/paypal.png" alt="PayPal Me" width="40" height="40"/></a></td>
 <td><a href="https://bmc.link/nativebit" target="_blank"><img src="./media/bmc-icon.png" alt="Buy Me A Coffee" width="40" height="40"/></a></td>
 <td></td>
