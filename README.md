@@ -9,7 +9,7 @@ I am a software developer with over 30 years experience. I am current specialisi
   </p>
 
 <table border="0">
-<tr><td colspan="14"><h2>Technologies</h2></td></tr>
+<tr><td colspan="15"><h2>Technologies</h2></td></tr>
 <tr>
 <th>Languages</th>
 <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
@@ -25,11 +25,13 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
 <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
 <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
+<td></td>
 </tr>
 <tr><th>Tools</th>
 <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="Visual Studio Code" width="40" height="40"/></a></td>
 <td><a href="https://developer.android.com/studio" target="_blank"><img src="https://developer.android.com/static/studio/images/new-studio-logo-1_2880.png" alt="Android Studio" width="40" height="40"/></a></td>
 <td><a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width="40" height="40"/></a></td>
+<td><a href="https://www.arduino.cc/en/software" target="_blank"><img src="./media/arduino.png" alt="Arduino IDE" width="40" height="40"/></a></td>
 <td><a href="https://desktop.github.com/" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="Git Hub" width="40" height="40"/></a></td>
 <td><a href="https://www.microsoft.com/software-download/windows11" target="_blank"><img src="./media/windows11.png" alt="Windows 11" width="40" height="40"/></a></td>
 <td><a href="https://www.apple.com/au/macos/ventura/" target="_blank"><img src="./media/macos.png" alt="MacOS" width="40" height="40"/></a></td>
@@ -55,6 +57,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr><th>Socials</th>
 <td><a href="https://www.linkedin.com/in/dion-jaymes-chapman-47b9278/" target="_blank"><img src="./media/linkedin.png" alt="LinkedId" width="40" height="40"/></a></td>
@@ -70,10 +73,12 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr><th>Sponsor Me</th>
 <td><a href="https://paypal.me/puggsincyberspace?country.x=AU&locale.x=en_AU" target="_blank"><img src="./media/paypal.png" alt="PayPal Me" width="40" height="40"/></a></td>
 <td><a href="https://bmc.link/nativebit" target="_blank"><img src="./media/bmc-icon.png" alt="Buy Me A Coffee" width="40" height="40"/></a></td>
+<td></td>
 <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 
 <table border="0">
