@@ -37,7 +37,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><a href="https://www.midjourney.com/home/" target="_blank"><img src="./media/MJ_Boat.png" alt="Premier" width="40" height="40"/></a></td>
 </tr>
 <tr><th>Developer</th>
-<td><a href="https://developer.apple.com/" target="_blank"><img src="./media/apple.png" alt="Apple Developer" width="40" height="40"/></a></td>
+<td><a href="https://developer.apple.com/" target="_blank"><img src="./media/apple-black.png" alt="Apple Developer" width="40" height="40"/></a></td>
 <td><a href="https://code.visualstudio.com/api" target="_blank"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="Visual Studio Code Extension Developer" width="40" height="40"/></a></td>
 <td><a href="https://developer.chrome.com/en/" target="_blank"><img src="./media/chrome.png" alt="Chrome Developer" width="40" height="40"/></a></td>
 <td><a href="https://developers.facebook.com/" target="_blank"><img src="./media/facebookdev.png" alt="Facebook Developer" width="40" height="40"/></a></td>
