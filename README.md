@@ -58,21 +58,6 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td></td>
 <td></td>
 </tr>
-<tr><th>Releases</th>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=NativeBit.i18n-l10n-editor" target="_blank"><img src="./media/logo-large.png" alt="Localization/Internationalization Editor" width="40" height="40"/></a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr><th>Socials</th>
 <td><a href="https://www.linkedin.com/in/dion-jaymes-chapman-47b9278/" target="_blank"><img src="./media/linkedin.png" alt="LinkedId" width="40" height="40"/></a></td>
 <td><a href="" target="_blank"><img src="./media/facebook.png" alt="Facebook" style="opacity: 0.3;" width="40" height="40"/></a></td>
@@ -93,6 +78,15 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><a href="https://bmc.link/nativebit" target="_blank"><img src="./media/bmc-icon.png" alt="Buy Me A Coffee" width="40" height="40"/></a></td>
 <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 
+<table border="0">
+<tr>< colspan="2"><h2>Releases</h2></td></tr>
+<tr>
+<td><a href="https://marketplace.visualstudio.com/items?itemName=NativeBit.i18n-l10n-editor" target="_blank"><img src="./media/logo-large.png" alt="Localization/Internationalization Editor" width="40" height="40"/></a></td>
+<td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>
+<br/><img src="https://img.shields.io/github/package-json/v/DionJChapman/Localization-Internationalization-Editor?color=cc5803&label=i18n-l10n-Editor%20Version"/>
+<br/><img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=Market%20Place%20Rating"/></td>
+</tr>
+</table>
 
 <table border="0">
 <tr><td colspan="3"><h2>Statistics</h2></td></tr>
