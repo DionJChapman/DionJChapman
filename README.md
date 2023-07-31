@@ -6,8 +6,6 @@ I am a software developer with over 30 years experience. I am current specialisi
   <img src="https://img.shields.io/github/followers/DionJChapman?logo=github&style=flat&color=0e75b6&labelColor=1c1917"/>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=DionJChapman&label=Profile%20views&color=0e75b6&style=flat" alt="Dion Chapman"/>&nbsp;&nbsp;
   <img alt="github" src="https://img.shields.io/github/stars/DionJChapman?affiliations=OWNER&color=ffe411&label=Github%20Stars&logo=github&logoColor=%23fffFF&style=flat" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=Market%20Place%20Rating"/>&nbsp;&nbsp;
   </p>
 
 <table border="0">
@@ -79,7 +77,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 
 <table border="0">
-<tr>< colspan="2"><h2>Releases</h2></td></tr>
+<tr><td colspan="2"><h2>Releases</h2></td></tr>
 <tr>
 <td><a href="https://marketplace.visualstudio.com/items?itemName=NativeBit.i18n-l10n-editor" target="_blank"><img src="./media/logo-large.png" alt="Localization/Internationalization Editor" width="40" height="40"/></a></td>
 <td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>
