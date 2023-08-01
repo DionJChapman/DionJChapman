@@ -88,7 +88,7 @@ I am a software developer with over 30 years experience. I am current specialisi
 <td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>
 <br/><img src="https://img.shields.io/github/package-json/v/DionJChapman/Localization-Internationalization-Editor?color=cc5803&label=i18n-l10n-Editor%20Version"/>
 <br/><img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Rating"/>
-<br/><img src="https://img.shields.io/visual-studio-marketplace/d/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Installs"/></td>
+<br/><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Installs"/></td>
 
 <td><a href="https://github.com/DionJChapman/RoundTFT" target="_blank"><img src="./media/mrasppicodp16.png" alt="RoundTFT" width="128" height="128"/></a></td>
 <td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/RoundTFT/total?color=cc5803&label=RoundTFT%20Downloads"/>
