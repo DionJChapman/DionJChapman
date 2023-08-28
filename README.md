@@ -84,14 +84,15 @@ I am a software developer with over 30 years of experience. I am currently speci
 <table border="0">
 <tr><td colspan="4"><h2>Releases</h2></td></tr>
 <tr>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=NativeBit.i18n-l10n-editor" target="_blank"><img src="./media/logo-large.png" alt="Localization/Internationalization Editor" width="128" height="128"/></a></td>
-<td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/Localization-Internationalization-Editor/total?color=cc5803&label=i18n-l10n-Editor%20Downloads"/>
-<br/><img src="https://img.shields.io/github/package-json/v/DionJChapman/Localization-Internationalization-Editor?color=cc5803&label=i18n-l10n-Editor%20Version"/>
+<td valign="top"><a href="https://marketplace.visualstudio.com/items?itemName=NativeBit.i18n-l10n-editor" target="_blank"><img src="./media/logo-large.png" alt="Localization/Internationalization Editor" width="128" height="128"/></a></td>
+<td><br/><img src="https://img.shields.io/github/package-json/v/DionJChapman/Localization-Internationalization-Editor?color=cc5803&label=i18n-l10n-Editor%20Version"/>
 <br/><img src="https://img.shields.io/visual-studio-marketplace/stars/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Rating"/>
+<br/><img src="https://img.shields.io/visual-studio-marketplace/d/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Downloads"/>
 <br/><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/NativeBit.i18n-l10n-editor?color=cc5803&label=MarketPlace%20Installs"/></td>
 
-<td><a href="https://github.com/DionJChapman/RoundTFT" target="_blank"><img src="./media/mrasppicodp16.png" alt="RoundTFT" width="128" height="128"/></a></td>
+<td valign="top"><a href="https://github.com/DionJChapman/RoundTFT" target="_blank"><img src="./media/mrasppicodp16.png" alt="RoundTFT" width="128" height="128"/></a></td>
 <td><br/><img src="https://img.shields.io/github/downloads/DionJChapman/RoundTFT/total?color=cc5803&label=RoundTFT%20Downloads"/>
+<br/>&nbsp;
 <br/>&nbsp;
 <br/>&nbsp;
 <br/>&nbsp;
