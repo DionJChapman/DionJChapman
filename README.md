@@ -1,6 +1,6 @@
 # About Me
 
-I am a software developer with over 30 years experience. I am current specialising in App development using Flutter and VSCode Extensions. I am able to do full development cycle including requirements gathering, data risk analyst, design, full stack development, documentation and releases.
+I am a software developer with over 30 years of experience. I am currently specialising in App development using Flutter and VSCode Extensions. I can provide a complete development cycle, including requirements gathering, data risk analysis, design, full stack development, documentation and releases.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/DionJChapman?logo=github&style=flat&color=0e75b6&labelColor=1c1917"/>&nbsp;&nbsp;
